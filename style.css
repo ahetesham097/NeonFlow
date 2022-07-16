@@ -1,0 +1,155 @@
+body{
+    font-family: "Montserrat";
+}
+/* Welcome Section  */
+#welcome-section{
+    background-color: #0a547e;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+/* Navbar */
+
+#Navbar-Sec{
+    padding: 1% 10%;
+}
+
+.navbar-brand{
+    padding: 0 20px;
+}
+
+a.nav-link{
+    color: black;
+    margin: 0 10px;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+a.nav-link:hover{
+    color: #FF6363;
+}
+
+/* Media Carousel */
+
+#carousel-sec{
+
+    padding: 4% 10% ;
+    background-color: #FF6363;
+    color: white ;
+}
+
+.heading-text{
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.img1{
+    text-align: center;
+}
+
+.img-1{
+    border: 5px solid white;
+}
+
+.shop1-btn{
+    margin: 20px 0;
+}
+
+.navbar-toggler-icon{
+    color: #FF6363;
+}
+
+.span.carousel-control-prev-icon{
+    margin: 0;
+    padding: 0;
+}
+
+/* About */
+
+#about-sec{
+    padding: 2% 10%;
+    text-align: center;
+    background-color: #0a547e;
+    color: white;
+}
+
+.about-log{
+    text-align: center;
+    padding: 3% 0;
+}
+
+p{
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.icons-feature{
+    padding: 20px;
+}
+
+h3{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.img-icon{
+    padding-bottom: 20px;
+}
+
+/* Featured Products */
+
+#featured-pro{
+    padding: 3% 10%;
+    text-align: center;
+}
+
+.h2-h{
+    font-weight: 800;
+    font-size: 2.52rem;
+}
+
+.feture-img{
+    margin-top: 40px;
+}
+
+.fet-img{
+    border: 5px solid #0a547e;
+    margin: 10px;
+
+}
+
+.ftn-btn{
+    margin-top: 10px;
+    text-align: left;
+}
+
+/* Testimonial */
+
+#testimonial{
+    background-color: #FF6363;
+
+}
+
+.bg-color{
+
+    text-align: center;
+    color: white;
+    padding: 3% 20%;
+    
+
+}
+
+img.img-circle{
+    border-radius: 100%;
+    border: 10px solid #0a547e;
+    margin-bottom: 30px;
+}
+.test-head{
+
+}
+
+@media (max-width: 575.98px) { 
+
+}
